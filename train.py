@@ -13,7 +13,6 @@ from tqdm import tqdm
 import numpy as np
 import datetime
 from torch.nn import functional as F
-from apex import amp
 import random
 
 
@@ -102,6 +101,8 @@ def prompt_and_decoder(args, batched_input, model, image_embeddings, decoder_ite
 
 
 def train_one_epoch(args, model, optimizer, train_loader, epoch, criterion):
+    if args.use_amp:
+        from apex import amp
     train_loader = tqdm(train_loader)
     train_losses = []
     train_iter_metrics = [0] * len(args.metrics)

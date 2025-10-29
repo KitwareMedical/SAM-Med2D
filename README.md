@@ -219,7 +219,7 @@ In our original paper, we acknowledge that there were anomalies in the test data
 ## 👉 Train
 Prepare your own dataset and refer to the samples in `SAM-Med2D/data_demo` to replace them according to your specific scenario. You need to generate the `image2label_train.json` file before running `train.py`.
 
-If you want to use mixed-precision training, please install [Apex](https://github.com/NVIDIA/apex). If you don't want to install Apex, you can comment out the line `from apex import amp` and set `use_amp` to False.
+If you want to use mixed-precision training, please install [Apex](https://github.com/NVIDIA/apex).
 
 ```bash
 cd ./SAM-Med2D
