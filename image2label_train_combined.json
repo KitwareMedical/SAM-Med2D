@@ -1,0 +1,1481 @@
+{
+    "ReorganizedImage/Montgomery_0243.png": [
+        "ReorganizedSegmentation/Montgomery_0243_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0072.png": [
+        "ReorganizedSegmentation/Shenzhen_0072_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0129.png": [
+        "ReorganizedSegmentation/Shenzhen_0129_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0152.png": [
+        "ReorganizedSegmentation/Shenzhen_0152_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0296.png": [
+        "ReorganizedSegmentation/Shenzhen_0296_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0468.png": [
+        "ReorganizedSegmentation/Shenzhen_0468_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0575.png": [
+        "ReorganizedSegmentation/Shenzhen_0575_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0051.png": [
+        "ReorganizedSegmentation/Montgomery_0051_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0390.png": [
+        "ReorganizedSegmentation/Montgomery_0390_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0536.png": [
+        "ReorganizedSegmentation/Shenzhen_0536_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0023.png": [
+        "ReorganizedSegmentation/Montgomery_0023_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0473.png": [
+        "ReorganizedSegmentation/Shenzhen_0473_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0055.png": [
+        "ReorganizedSegmentation/Montgomery_0055_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0529.png": [
+        "ReorganizedSegmentation/Shenzhen_0529_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0301.png": [
+        "ReorganizedSegmentation/Montgomery_0301_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0335.png": [
+        "ReorganizedSegmentation/Shenzhen_0335_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0083.png": [
+        "ReorganizedSegmentation/Shenzhen_0083_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0062.png": [
+        "ReorganizedSegmentation/Shenzhen_0062_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0331.png": [
+        "ReorganizedSegmentation/Shenzhen_0331_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0453.png": [
+        "ReorganizedSegmentation/Shenzhen_0453_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0576.png": [
+        "ReorganizedSegmentation/Shenzhen_0576_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0546.png": [
+        "ReorganizedSegmentation/Shenzhen_0546_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0361.png": [
+        "ReorganizedSegmentation/Shenzhen_0361_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0558.png": [
+        "ReorganizedSegmentation/Shenzhen_0558_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0248.png": [
+        "ReorganizedSegmentation/Shenzhen_0248_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0610.png": [
+        "ReorganizedSegmentation/Shenzhen_0610_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0150.png": [
+        "ReorganizedSegmentation/Montgomery_0150_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0411.png": [
+        "ReorganizedSegmentation/Shenzhen_0411_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0080.png": [
+        "ReorganizedSegmentation/Shenzhen_0080_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0404.png": [
+        "ReorganizedSegmentation/Shenzhen_0404_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0108.png": [
+        "ReorganizedSegmentation/Montgomery_0108_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0420.png": [
+        "ReorganizedSegmentation/Shenzhen_0420_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0284.png": [
+        "ReorganizedSegmentation/Shenzhen_0284_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0050.png": [
+        "ReorganizedSegmentation/Shenzhen_0050_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0267.png": [
+        "ReorganizedSegmentation/Shenzhen_0267_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0105.png": [
+        "ReorganizedSegmentation/Shenzhen_0105_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0041.png": [
+        "ReorganizedSegmentation/Shenzhen_0041_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0006.png": [
+        "ReorganizedSegmentation/Montgomery_0006_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0077.png": [
+        "ReorganizedSegmentation/Shenzhen_0077_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0603.png": [
+        "ReorganizedSegmentation/Shenzhen_0603_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0300.png": [
+        "ReorganizedSegmentation/Shenzhen_0300_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0507.png": [
+        "ReorganizedSegmentation/Shenzhen_0507_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0061.png": [
+        "ReorganizedSegmentation/Montgomery_0061_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0282.png": [
+        "ReorganizedSegmentation/Shenzhen_0282_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0588.png": [
+        "ReorganizedSegmentation/Shenzhen_0588_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0373.png": [
+        "ReorganizedSegmentation/Shenzhen_0373_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0554.png": [
+        "ReorganizedSegmentation/Shenzhen_0554_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0365.png": [
+        "ReorganizedSegmentation/Shenzhen_0365_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0249.png": [
+        "ReorganizedSegmentation/Shenzhen_0249_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0605.png": [
+        "ReorganizedSegmentation/Shenzhen_0605_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0476.png": [
+        "ReorganizedSegmentation/Shenzhen_0476_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0264.png": [
+        "ReorganizedSegmentation/Shenzhen_0264_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0049.png": [
+        "ReorganizedSegmentation/Montgomery_0049_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0166.png": [
+        "ReorganizedSegmentation/Montgomery_0166_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0056.png": [
+        "ReorganizedSegmentation/Montgomery_0056_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0014.png": [
+        "ReorganizedSegmentation/Shenzhen_0014_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0013.png": [
+        "ReorganizedSegmentation/Montgomery_0013_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0311.png": [
+        "ReorganizedSegmentation/Shenzhen_0311_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0182.png": [
+        "ReorganizedSegmentation/Montgomery_0182_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0333.png": [
+        "ReorganizedSegmentation/Shenzhen_0333_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0095.png": [
+        "ReorganizedSegmentation/Montgomery_0095_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0258.png": [
+        "ReorganizedSegmentation/Montgomery_0258_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0242.png": [
+        "ReorganizedSegmentation/Shenzhen_0242_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0139.png": [
+        "ReorganizedSegmentation/Shenzhen_0139_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0431.png": [
+        "ReorganizedSegmentation/Shenzhen_0431_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0320.png": [
+        "ReorganizedSegmentation/Shenzhen_0320_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0164.png": [
+        "ReorganizedSegmentation/Shenzhen_0164_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0634.png": [
+        "ReorganizedSegmentation/Shenzhen_0634_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0101.png": [
+        "ReorganizedSegmentation/Montgomery_0101_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0266.png": [
+        "ReorganizedSegmentation/Montgomery_0266_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0126.png": [
+        "ReorganizedSegmentation/Shenzhen_0126_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0294.png": [
+        "ReorganizedSegmentation/Shenzhen_0294_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0467.png": [
+        "ReorganizedSegmentation/Shenzhen_0467_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0104.png": [
+        "ReorganizedSegmentation/Montgomery_0104_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0573.png": [
+        "ReorganizedSegmentation/Shenzhen_0573_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0654.png": [
+        "ReorganizedSegmentation/Shenzhen_0654_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0083.png": [
+        "ReorganizedSegmentation/Montgomery_0083_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0038.png": [
+        "ReorganizedSegmentation/Montgomery_0038_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0543.png": [
+        "ReorganizedSegmentation/Shenzhen_0543_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0287.png": [
+        "ReorganizedSegmentation/Shenzhen_0287_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0028.png": [
+        "ReorganizedSegmentation/Shenzhen_0028_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0427.png": [
+        "ReorganizedSegmentation/Shenzhen_0427_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0607.png": [
+        "ReorganizedSegmentation/Shenzhen_0607_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0416.png": [
+        "ReorganizedSegmentation/Shenzhen_0416_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0134.png": [
+        "ReorganizedSegmentation/Shenzhen_0134_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0281.png": [
+        "ReorganizedSegmentation/Shenzhen_0281_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0079.png": [
+        "ReorganizedSegmentation/Montgomery_0079_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0628.png": [
+        "ReorganizedSegmentation/Shenzhen_0628_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0064.png": [
+        "ReorganizedSegmentation/Shenzhen_0064_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0054.png": [
+        "ReorganizedSegmentation/Shenzhen_0054_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0364.png": [
+        "ReorganizedSegmentation/Shenzhen_0364_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0419.png": [
+        "ReorganizedSegmentation/Shenzhen_0419_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0450.png": [
+        "ReorganizedSegmentation/Shenzhen_0450_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0100.png": [
+        "ReorganizedSegmentation/Shenzhen_0100_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0551.png": [
+        "ReorganizedSegmentation/Shenzhen_0551_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0604.png": [
+        "ReorganizedSegmentation/Shenzhen_0604_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0395.png": [
+        "ReorganizedSegmentation/Shenzhen_0395_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0313.png": [
+        "ReorganizedSegmentation/Montgomery_0313_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0029.png": [
+        "ReorganizedSegmentation/Montgomery_0029_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0557.png": [
+        "ReorganizedSegmentation/Shenzhen_0557_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0480.png": [
+        "ReorganizedSegmentation/Shenzhen_0480_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0203.png": [
+        "ReorganizedSegmentation/Montgomery_0203_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0639.png": [
+        "ReorganizedSegmentation/Shenzhen_0639_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0049.png": [
+        "ReorganizedSegmentation/Shenzhen_0049_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0144.png": [
+        "ReorganizedSegmentation/Montgomery_0144_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0322.png": [
+        "ReorganizedSegmentation/Shenzhen_0322_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0617.png": [
+        "ReorganizedSegmentation/Shenzhen_0617_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0440.png": [
+        "ReorganizedSegmentation/Shenzhen_0440_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0137.png": [
+        "ReorganizedSegmentation/Shenzhen_0137_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0638.png": [
+        "ReorganizedSegmentation/Shenzhen_0638_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0629.png": [
+        "ReorganizedSegmentation/Shenzhen_0629_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0435.png": [
+        "ReorganizedSegmentation/Shenzhen_0435_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0369.png": [
+        "ReorganizedSegmentation/Shenzhen_0369_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0255.png": [
+        "ReorganizedSegmentation/Montgomery_0255_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0013.png": [
+        "ReorganizedSegmentation/Shenzhen_0013_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0608.png": [
+        "ReorganizedSegmentation/Shenzhen_0608_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0279.png": [
+        "ReorganizedSegmentation/Shenzhen_0279_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0371.png": [
+        "ReorganizedSegmentation/Shenzhen_0371_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0380.png": [
+        "ReorganizedSegmentation/Shenzhen_0380_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0569.png": [
+        "ReorganizedSegmentation/Shenzhen_0569_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0094.png": [
+        "ReorganizedSegmentation/Montgomery_0094_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0392.png": [
+        "ReorganizedSegmentation/Shenzhen_0392_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0071.png": [
+        "ReorganizedSegmentation/Shenzhen_0071_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0533.png": [
+        "ReorganizedSegmentation/Shenzhen_0533_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0644.png": [
+        "ReorganizedSegmentation/Shenzhen_0644_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0518.png": [
+        "ReorganizedSegmentation/Shenzhen_0518_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0240.png": [
+        "ReorganizedSegmentation/Shenzhen_0240_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0221.png": [
+        "ReorganizedSegmentation/Shenzhen_0221_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0063.png": [
+        "ReorganizedSegmentation/Montgomery_0063_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0313.png": [
+        "ReorganizedSegmentation/Shenzhen_0313_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0515.png": [
+        "ReorganizedSegmentation/Shenzhen_0515_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0114.png": [
+        "ReorganizedSegmentation/Shenzhen_0114_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0035.png": [
+        "ReorganizedSegmentation/Montgomery_0035_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0510.png": [
+        "ReorganizedSegmentation/Shenzhen_0510_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0116.png": [
+        "ReorganizedSegmentation/Shenzhen_0116_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0268.png": [
+        "ReorganizedSegmentation/Shenzhen_0268_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0470.png": [
+        "ReorganizedSegmentation/Shenzhen_0470_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0033.png": [
+        "ReorganizedSegmentation/Shenzhen_0033_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0059.png": [
+        "ReorganizedSegmentation/Shenzhen_0059_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0045.png": [
+        "ReorganizedSegmentation/Montgomery_0045_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0168.png": [
+        "ReorganizedSegmentation/Shenzhen_0168_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0047.png": [
+        "ReorganizedSegmentation/Montgomery_0047_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0297.png": [
+        "ReorganizedSegmentation/Shenzhen_0297_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0022.png": [
+        "ReorganizedSegmentation/Shenzhen_0022_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0074.png": [
+        "ReorganizedSegmentation/Montgomery_0074_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0627.png": [
+        "ReorganizedSegmentation/Shenzhen_0627_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0282.png": [
+        "ReorganizedSegmentation/Montgomery_0282_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0384.png": [
+        "ReorganizedSegmentation/Shenzhen_0384_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0031.png": [
+        "ReorganizedSegmentation/Shenzhen_0031_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0590.png": [
+        "ReorganizedSegmentation/Shenzhen_0590_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0173.png": [
+        "ReorganizedSegmentation/Shenzhen_0173_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0584.png": [
+        "ReorganizedSegmentation/Shenzhen_0584_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0314.png": [
+        "ReorganizedSegmentation/Shenzhen_0314_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0003.png": [
+        "ReorganizedSegmentation/Montgomery_0003_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0443.png": [
+        "ReorganizedSegmentation/Shenzhen_0443_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0659.png": [
+        "ReorganizedSegmentation/Shenzhen_0659_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0524.png": [
+        "ReorganizedSegmentation/Shenzhen_0524_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0298.png": [
+        "ReorganizedSegmentation/Shenzhen_0298_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0633.png": [
+        "ReorganizedSegmentation/Shenzhen_0633_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0086.png": [
+        "ReorganizedSegmentation/Montgomery_0086_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0457.png": [
+        "ReorganizedSegmentation/Shenzhen_0457_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0258.png": [
+        "ReorganizedSegmentation/Shenzhen_0258_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0005.png": [
+        "ReorganizedSegmentation/Montgomery_0005_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0069.png": [
+        "ReorganizedSegmentation/Montgomery_0069_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0362.png": [
+        "ReorganizedSegmentation/Montgomery_0362_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0539.png": [
+        "ReorganizedSegmentation/Shenzhen_0539_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0275.png": [
+        "ReorganizedSegmentation/Montgomery_0275_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0612.png": [
+        "ReorganizedSegmentation/Shenzhen_0612_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0369.png": [
+        "ReorganizedSegmentation/Montgomery_0369_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0239.png": [
+        "ReorganizedSegmentation/Shenzhen_0239_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0072.png": [
+        "ReorganizedSegmentation/Montgomery_0072_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0077.png": [
+        "ReorganizedSegmentation/Montgomery_0077_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0176.png": [
+        "ReorganizedSegmentation/Shenzhen_0176_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0580.png": [
+        "ReorganizedSegmentation/Shenzhen_0580_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0001.png": [
+        "ReorganizedSegmentation/Shenzhen_0001_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0133.png": [
+        "ReorganizedSegmentation/Shenzhen_0133_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0157.png": [
+        "ReorganizedSegmentation/Shenzhen_0157_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0406.png": [
+        "ReorganizedSegmentation/Shenzhen_0406_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0252.png": [
+        "ReorganizedSegmentation/Shenzhen_0252_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0226.png": [
+        "ReorganizedSegmentation/Shenzhen_0226_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0259.png": [
+        "ReorganizedSegmentation/Shenzhen_0259_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0579.png": [
+        "ReorganizedSegmentation/Shenzhen_0579_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0103.png": [
+        "ReorganizedSegmentation/Montgomery_0103_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0227.png": [
+        "ReorganizedSegmentation/Shenzhen_0227_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0472.png": [
+        "ReorganizedSegmentation/Shenzhen_0472_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0142.png": [
+        "ReorganizedSegmentation/Montgomery_0142_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0048.png": [
+        "ReorganizedSegmentation/Shenzhen_0048_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0324.png": [
+        "ReorganizedSegmentation/Shenzhen_0324_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0241.png": [
+        "ReorganizedSegmentation/Shenzhen_0241_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0102.png": [
+        "ReorganizedSegmentation/Montgomery_0102_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0131.png": [
+        "ReorganizedSegmentation/Shenzhen_0131_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0308.png": [
+        "ReorganizedSegmentation/Shenzhen_0308_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0302.png": [
+        "ReorganizedSegmentation/Shenzhen_0302_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0125.png": [
+        "ReorganizedSegmentation/Shenzhen_0125_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0270.png": [
+        "ReorganizedSegmentation/Shenzhen_0270_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0509.png": [
+        "ReorganizedSegmentation/Shenzhen_0509_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0128.png": [
+        "ReorganizedSegmentation/Shenzhen_0128_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0293.png": [
+        "ReorganizedSegmentation/Shenzhen_0293_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0092.png": [
+        "ReorganizedSegmentation/Montgomery_0092_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0661.png": [
+        "ReorganizedSegmentation/Shenzhen_0661_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0269.png": [
+        "ReorganizedSegmentation/Shenzhen_0269_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0228.png": [
+        "ReorganizedSegmentation/Montgomery_0228_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0043.png": [
+        "ReorganizedSegmentation/Shenzhen_0043_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0235.png": [
+        "ReorganizedSegmentation/Shenzhen_0235_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0397.png": [
+        "ReorganizedSegmentation/Shenzhen_0397_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0257.png": [
+        "ReorganizedSegmentation/Shenzhen_0257_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0547.png": [
+        "ReorganizedSegmentation/Shenzhen_0547_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0291.png": [
+        "ReorganizedSegmentation/Shenzhen_0291_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0407.png": [
+        "ReorganizedSegmentation/Shenzhen_0407_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0169.png": [
+        "ReorganizedSegmentation/Shenzhen_0169_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0224.png": [
+        "ReorganizedSegmentation/Shenzhen_0224_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0417.png": [
+        "ReorganizedSegmentation/Shenzhen_0417_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0102.png": [
+        "ReorganizedSegmentation/Shenzhen_0102_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0456.png": [
+        "ReorganizedSegmentation/Shenzhen_0456_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0145.png": [
+        "ReorganizedSegmentation/Shenzhen_0145_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0153.png": [
+        "ReorganizedSegmentation/Shenzhen_0153_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0352.png": [
+        "ReorganizedSegmentation/Montgomery_0352_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0439.png": [
+        "ReorganizedSegmentation/Shenzhen_0439_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0410.png": [
+        "ReorganizedSegmentation/Shenzhen_0410_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0327.png": [
+        "ReorganizedSegmentation/Shenzhen_0327_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0070.png": [
+        "ReorganizedSegmentation/Shenzhen_0070_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0461.png": [
+        "ReorganizedSegmentation/Shenzhen_0461_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0162.png": [
+        "ReorganizedSegmentation/Shenzhen_0162_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0329.png": [
+        "ReorganizedSegmentation/Shenzhen_0329_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0394.png": [
+        "ReorganizedSegmentation/Shenzhen_0394_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0348.png": [
+        "ReorganizedSegmentation/Montgomery_0348_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0084.png": [
+        "ReorganizedSegmentation/Montgomery_0084_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0075.png": [
+        "ReorganizedSegmentation/Shenzhen_0075_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0623.png": [
+        "ReorganizedSegmentation/Shenzhen_0623_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0316.png": [
+        "ReorganizedSegmentation/Shenzhen_0316_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0501.png": [
+        "ReorganizedSegmentation/Shenzhen_0501_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0325.png": [
+        "ReorganizedSegmentation/Shenzhen_0325_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0238.png": [
+        "ReorganizedSegmentation/Shenzhen_0238_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0615.png": [
+        "ReorganizedSegmentation/Shenzhen_0615_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0466.png": [
+        "ReorganizedSegmentation/Shenzhen_0466_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0144.png": [
+        "ReorganizedSegmentation/Shenzhen_0144_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0009.png": [
+        "ReorganizedSegmentation/Shenzhen_0009_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0387.png": [
+        "ReorganizedSegmentation/Shenzhen_0387_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0311.png": [
+        "ReorganizedSegmentation/Montgomery_0311_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0334.png": [
+        "ReorganizedSegmentation/Shenzhen_0334_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0527.png": [
+        "ReorganizedSegmentation/Shenzhen_0527_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0264.png": [
+        "ReorganizedSegmentation/Montgomery_0264_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0167.png": [
+        "ReorganizedSegmentation/Shenzhen_0167_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0531.png": [
+        "ReorganizedSegmentation/Shenzhen_0531_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0213.png": [
+        "ReorganizedSegmentation/Montgomery_0213_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0442.png": [
+        "ReorganizedSegmentation/Shenzhen_0442_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0445.png": [
+        "ReorganizedSegmentation/Shenzhen_0445_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0113.png": [
+        "ReorganizedSegmentation/Shenzhen_0113_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0451.png": [
+        "ReorganizedSegmentation/Shenzhen_0451_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0223.png": [
+        "ReorganizedSegmentation/Montgomery_0223_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0052.png": [
+        "ReorganizedSegmentation/Shenzhen_0052_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0044.png": [
+        "ReorganizedSegmentation/Montgomery_0044_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0263.png": [
+        "ReorganizedSegmentation/Shenzhen_0263_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0541.png": [
+        "ReorganizedSegmentation/Shenzhen_0541_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0649.png": [
+        "ReorganizedSegmentation/Shenzhen_0649_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0250.png": [
+        "ReorganizedSegmentation/Shenzhen_0250_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0436.png": [
+        "ReorganizedSegmentation/Shenzhen_0436_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0655.png": [
+        "ReorganizedSegmentation/Shenzhen_0655_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0109.png": [
+        "ReorganizedSegmentation/Shenzhen_0109_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0253.png": [
+        "ReorganizedSegmentation/Shenzhen_0253_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0035.png": [
+        "ReorganizedSegmentation/Shenzhen_0035_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0622.png": [
+        "ReorganizedSegmentation/Shenzhen_0622_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0026.png": [
+        "ReorganizedSegmentation/Montgomery_0026_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0368.png": [
+        "ReorganizedSegmentation/Shenzhen_0368_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0159.png": [
+        "ReorganizedSegmentation/Shenzhen_0159_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0426.png": [
+        "ReorganizedSegmentation/Shenzhen_0426_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0438.png": [
+        "ReorganizedSegmentation/Shenzhen_0438_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0180.png": [
+        "ReorganizedSegmentation/Shenzhen_0180_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0021.png": [
+        "ReorganizedSegmentation/Shenzhen_0021_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0251.png": [
+        "ReorganizedSegmentation/Shenzhen_0251_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0117.png": [
+        "ReorganizedSegmentation/Shenzhen_0117_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0409.png": [
+        "ReorganizedSegmentation/Shenzhen_0409_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0589.png": [
+        "ReorganizedSegmentation/Shenzhen_0589_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0525.png": [
+        "ReorganizedSegmentation/Shenzhen_0525_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0042.png": [
+        "ReorganizedSegmentation/Shenzhen_0042_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0093.png": [
+        "ReorganizedSegmentation/Shenzhen_0093_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0032.png": [
+        "ReorganizedSegmentation/Shenzhen_0032_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0008.png": [
+        "ReorganizedSegmentation/Montgomery_0008_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0631.png": [
+        "ReorganizedSegmentation/Shenzhen_0631_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0553.png": [
+        "ReorganizedSegmentation/Shenzhen_0553_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0097.png": [
+        "ReorganizedSegmentation/Shenzhen_0097_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0275.png": [
+        "ReorganizedSegmentation/Shenzhen_0275_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0458.png": [
+        "ReorganizedSegmentation/Shenzhen_0458_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0029.png": [
+        "ReorganizedSegmentation/Shenzhen_0029_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0044.png": [
+        "ReorganizedSegmentation/Shenzhen_0044_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0512.png": [
+        "ReorganizedSegmentation/Shenzhen_0512_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0528.png": [
+        "ReorganizedSegmentation/Shenzhen_0528_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0030.png": [
+        "ReorganizedSegmentation/Shenzhen_0030_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0651.png": [
+        "ReorganizedSegmentation/Shenzhen_0651_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0616.png": [
+        "ReorganizedSegmentation/Shenzhen_0616_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0005.png": [
+        "ReorganizedSegmentation/Shenzhen_0005_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0462.png": [
+        "ReorganizedSegmentation/Shenzhen_0462_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0653.png": [
+        "ReorganizedSegmentation/Shenzhen_0653_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0237.png": [
+        "ReorganizedSegmentation/Shenzhen_0237_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0596.png": [
+        "ReorganizedSegmentation/Shenzhen_0596_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0106.png": [
+        "ReorganizedSegmentation/Shenzhen_0106_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0082.png": [
+        "ReorganizedSegmentation/Montgomery_0082_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0632.png": [
+        "ReorganizedSegmentation/Shenzhen_0632_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0273.png": [
+        "ReorganizedSegmentation/Shenzhen_0273_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0630.png": [
+        "ReorganizedSegmentation/Shenzhen_0630_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0597.png": [
+        "ReorganizedSegmentation/Shenzhen_0597_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0332.png": [
+        "ReorganizedSegmentation/Shenzhen_0332_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0225.png": [
+        "ReorganizedSegmentation/Shenzhen_0225_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0087.png": [
+        "ReorganizedSegmentation/Shenzhen_0087_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0251.png": [
+        "ReorganizedSegmentation/Montgomery_0251_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0024.png": [
+        "ReorganizedSegmentation/Shenzhen_0024_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0003.png": [
+        "ReorganizedSegmentation/Shenzhen_0003_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0055.png": [
+        "ReorganizedSegmentation/Shenzhen_0055_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0383.png": [
+        "ReorganizedSegmentation/Montgomery_0383_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0477.png": [
+        "ReorganizedSegmentation/Shenzhen_0477_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0367.png": [
+        "ReorganizedSegmentation/Shenzhen_0367_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0108.png": [
+        "ReorganizedSegmentation/Shenzhen_0108_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0012.png": [
+        "ReorganizedSegmentation/Shenzhen_0012_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0135.png": [
+        "ReorganizedSegmentation/Shenzhen_0135_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0318.png": [
+        "ReorganizedSegmentation/Shenzhen_0318_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0194.png": [
+        "ReorganizedSegmentation/Montgomery_0194_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0019.png": [
+        "ReorganizedSegmentation/Shenzhen_0019_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0015.png": [
+        "ReorganizedSegmentation/Shenzhen_0015_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0620.png": [
+        "ReorganizedSegmentation/Shenzhen_0620_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0600.png": [
+        "ReorganizedSegmentation/Shenzhen_0600_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0018.png": [
+        "ReorganizedSegmentation/Shenzhen_0018_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0231.png": [
+        "ReorganizedSegmentation/Shenzhen_0231_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0090.png": [
+        "ReorganizedSegmentation/Montgomery_0090_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0626.png": [
+        "ReorganizedSegmentation/Shenzhen_0626_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0289.png": [
+        "ReorganizedSegmentation/Shenzhen_0289_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0595.png": [
+        "ReorganizedSegmentation/Shenzhen_0595_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0316.png": [
+        "ReorganizedSegmentation/Montgomery_0316_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0544.png": [
+        "ReorganizedSegmentation/Shenzhen_0544_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0230.png": [
+        "ReorganizedSegmentation/Shenzhen_0230_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0068.png": [
+        "ReorganizedSegmentation/Montgomery_0068_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0047.png": [
+        "ReorganizedSegmentation/Shenzhen_0047_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0375.png": [
+        "ReorganizedSegmentation/Montgomery_0375_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0274.png": [
+        "ReorganizedSegmentation/Shenzhen_0274_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0559.png": [
+        "ReorganizedSegmentation/Shenzhen_0559_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0423.png": [
+        "ReorganizedSegmentation/Shenzhen_0423_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0375.png": [
+        "ReorganizedSegmentation/Shenzhen_0375_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0640.png": [
+        "ReorganizedSegmentation/Shenzhen_0640_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0328.png": [
+        "ReorganizedSegmentation/Shenzhen_0328_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0363.png": [
+        "ReorganizedSegmentation/Shenzhen_0363_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0570.png": [
+        "ReorganizedSegmentation/Shenzhen_0570_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0143.png": [
+        "ReorganizedSegmentation/Shenzhen_0143_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0126.png": [
+        "ReorganizedSegmentation/Montgomery_0126_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0593.png": [
+        "ReorganizedSegmentation/Shenzhen_0593_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0057.png": [
+        "ReorganizedSegmentation/Montgomery_0057_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0519.png": [
+        "ReorganizedSegmentation/Shenzhen_0519_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0338.png": [
+        "ReorganizedSegmentation/Montgomery_0338_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0548.png": [
+        "ReorganizedSegmentation/Shenzhen_0548_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0464.png": [
+        "ReorganizedSegmentation/Shenzhen_0464_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0471.png": [
+        "ReorganizedSegmentation/Shenzhen_0471_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0091.png": [
+        "ReorganizedSegmentation/Shenzhen_0091_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0339.png": [
+        "ReorganizedSegmentation/Shenzhen_0339_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0621.png": [
+        "ReorganizedSegmentation/Shenzhen_0621_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0583.png": [
+        "ReorganizedSegmentation/Shenzhen_0583_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0177.png": [
+        "ReorganizedSegmentation/Shenzhen_0177_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0020.png": [
+        "ReorganizedSegmentation/Montgomery_0020_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0399.png": [
+        "ReorganizedSegmentation/Montgomery_0399_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0294.png": [
+        "ReorganizedSegmentation/Montgomery_0294_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0522.png": [
+        "ReorganizedSegmentation/Shenzhen_0522_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0247.png": [
+        "ReorganizedSegmentation/Shenzhen_0247_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0662.png": [
+        "ReorganizedSegmentation/Shenzhen_0662_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0161.png": [
+        "ReorganizedSegmentation/Shenzhen_0161_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0046.png": [
+        "ReorganizedSegmentation/Montgomery_0046_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0377.png": [
+        "ReorganizedSegmentation/Shenzhen_0377_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0399.png": [
+        "ReorganizedSegmentation/Shenzhen_0399_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0173.png": [
+        "ReorganizedSegmentation/Montgomery_0173_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0057.png": [
+        "ReorganizedSegmentation/Shenzhen_0057_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0030.png": [
+        "ReorganizedSegmentation/Montgomery_0030_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0469.png": [
+        "ReorganizedSegmentation/Shenzhen_0469_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0434.png": [
+        "ReorganizedSegmentation/Shenzhen_0434_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0066.png": [
+        "ReorganizedSegmentation/Shenzhen_0066_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0110.png": [
+        "ReorganizedSegmentation/Shenzhen_0110_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0261.png": [
+        "ReorganizedSegmentation/Shenzhen_0261_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0511.png": [
+        "ReorganizedSegmentation/Shenzhen_0511_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0283.png": [
+        "ReorganizedSegmentation/Shenzhen_0283_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0140.png": [
+        "ReorganizedSegmentation/Shenzhen_0140_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0222.png": [
+        "ReorganizedSegmentation/Shenzhen_0222_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0054.png": [
+        "ReorganizedSegmentation/Montgomery_0054_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0516.png": [
+        "ReorganizedSegmentation/Shenzhen_0516_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0262.png": [
+        "ReorganizedSegmentation/Shenzhen_0262_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0028.png": [
+        "ReorganizedSegmentation/Montgomery_0028_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0405.png": [
+        "ReorganizedSegmentation/Shenzhen_0405_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0141.png": [
+        "ReorganizedSegmentation/Shenzhen_0141_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0001.png": [
+        "ReorganizedSegmentation/Montgomery_0001_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0111.png": [
+        "ReorganizedSegmentation/Shenzhen_0111_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0606.png": [
+        "ReorganizedSegmentation/Shenzhen_0606_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0058.png": [
+        "ReorganizedSegmentation/Montgomery_0058_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0040.png": [
+        "ReorganizedSegmentation/Montgomery_0040_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0647.png": [
+        "ReorganizedSegmentation/Shenzhen_0647_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0244.png": [
+        "ReorganizedSegmentation/Shenzhen_0244_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0045.png": [
+        "ReorganizedSegmentation/Shenzhen_0045_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0063.png": [
+        "ReorganizedSegmentation/Shenzhen_0063_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0058.png": [
+        "ReorganizedSegmentation/Shenzhen_0058_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0099.png": [
+        "ReorganizedSegmentation/Shenzhen_0099_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0611.png": [
+        "ReorganizedSegmentation/Shenzhen_0611_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0008.png": [
+        "ReorganizedSegmentation/Shenzhen_0008_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0278.png": [
+        "ReorganizedSegmentation/Shenzhen_0278_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0059.png": [
+        "ReorganizedSegmentation/Montgomery_0059_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0271.png": [
+        "ReorganizedSegmentation/Shenzhen_0271_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0288.png": [
+        "ReorganizedSegmentation/Shenzhen_0288_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0002.png": [
+        "ReorganizedSegmentation/Montgomery_0002_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0027.png": [
+        "ReorganizedSegmentation/Montgomery_0027_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0068.png": [
+        "ReorganizedSegmentation/Shenzhen_0068_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0503.png": [
+        "ReorganizedSegmentation/Shenzhen_0503_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0051.png": [
+        "ReorganizedSegmentation/Shenzhen_0051_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0011.png": [
+        "ReorganizedSegmentation/Montgomery_0011_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0550.png": [
+        "ReorganizedSegmentation/Shenzhen_0550_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0162.png": [
+        "ReorganizedSegmentation/Montgomery_0162_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0521.png": [
+        "ReorganizedSegmentation/Shenzhen_0521_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0310.png": [
+        "ReorganizedSegmentation/Shenzhen_0310_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0188.png": [
+        "ReorganizedSegmentation/Montgomery_0188_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0069.png": [
+        "ReorganizedSegmentation/Shenzhen_0069_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0658.png": [
+        "ReorganizedSegmentation/Shenzhen_0658_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0276.png": [
+        "ReorganizedSegmentation/Shenzhen_0276_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0027.png": [
+        "ReorganizedSegmentation/Shenzhen_0027_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0060.png": [
+        "ReorganizedSegmentation/Montgomery_0060_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0432.png": [
+        "ReorganizedSegmentation/Shenzhen_0432_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0024.png": [
+        "ReorganizedSegmentation/Montgomery_0024_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0121.png": [
+        "ReorganizedSegmentation/Shenzhen_0121_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0430.png": [
+        "ReorganizedSegmentation/Shenzhen_0430_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0574.png": [
+        "ReorganizedSegmentation/Shenzhen_0574_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0289.png": [
+        "ReorganizedSegmentation/Montgomery_0289_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0321.png": [
+        "ReorganizedSegmentation/Shenzhen_0321_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0385.png": [
+        "ReorganizedSegmentation/Shenzhen_0385_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0140.png": [
+        "ReorganizedSegmentation/Montgomery_0140_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0034.png": [
+        "ReorganizedSegmentation/Shenzhen_0034_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0292.png": [
+        "ReorganizedSegmentation/Shenzhen_0292_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0146.png": [
+        "ReorganizedSegmentation/Shenzhen_0146_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0174.png": [
+        "ReorganizedSegmentation/Shenzhen_0174_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0613.png": [
+        "ReorganizedSegmentation/Shenzhen_0613_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0648.png": [
+        "ReorganizedSegmentation/Shenzhen_0648_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0383.png": [
+        "ReorganizedSegmentation/Shenzhen_0383_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0424.png": [
+        "ReorganizedSegmentation/Shenzhen_0424_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0444.png": [
+        "ReorganizedSegmentation/Shenzhen_0444_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0020.png": [
+        "ReorganizedSegmentation/Shenzhen_0020_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0591.png": [
+        "ReorganizedSegmentation/Shenzhen_0591_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0520.png": [
+        "ReorganizedSegmentation/Shenzhen_0520_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0508.png": [
+        "ReorganizedSegmentation/Shenzhen_0508_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0532.png": [
+        "ReorganizedSegmentation/Shenzhen_0532_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0147.png": [
+        "ReorganizedSegmentation/Shenzhen_0147_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0272.png": [
+        "ReorganizedSegmentation/Shenzhen_0272_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0393.png": [
+        "ReorganizedSegmentation/Shenzhen_0393_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0412.png": [
+        "ReorganizedSegmentation/Shenzhen_0412_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0303.png": [
+        "ReorganizedSegmentation/Shenzhen_0303_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0393.png": [
+        "ReorganizedSegmentation/Montgomery_0393_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0079.png": [
+        "ReorganizedSegmentation/Shenzhen_0079_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0004.png": [
+        "ReorganizedSegmentation/Shenzhen_0004_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0260.png": [
+        "ReorganizedSegmentation/Shenzhen_0260_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0138.png": [
+        "ReorganizedSegmentation/Shenzhen_0138_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0141.png": [
+        "ReorganizedSegmentation/Montgomery_0141_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0010.png": [
+        "ReorganizedSegmentation/Shenzhen_0010_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0474.png": [
+        "ReorganizedSegmentation/Shenzhen_0474_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0052.png": [
+        "ReorganizedSegmentation/Montgomery_0052_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0374.png": [
+        "ReorganizedSegmentation/Shenzhen_0374_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0555.png": [
+        "ReorganizedSegmentation/Shenzhen_0555_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0636.png": [
+        "ReorganizedSegmentation/Shenzhen_0636_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0315.png": [
+        "ReorganizedSegmentation/Shenzhen_0315_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0062.png": [
+        "ReorganizedSegmentation/Montgomery_0062_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0506.png": [
+        "ReorganizedSegmentation/Shenzhen_0506_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0070.png": [
+        "ReorganizedSegmentation/Montgomery_0070_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0428.png": [
+        "ReorganizedSegmentation/Shenzhen_0428_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0015.png": [
+        "ReorganizedSegmentation/Montgomery_0015_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0459.png": [
+        "ReorganizedSegmentation/Shenzhen_0459_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0545.png": [
+        "ReorganizedSegmentation/Shenzhen_0545_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0006.png": [
+        "ReorganizedSegmentation/Shenzhen_0006_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0123.png": [
+        "ReorganizedSegmentation/Shenzhen_0123_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0408.png": [
+        "ReorganizedSegmentation/Shenzhen_0408_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0011.png": [
+        "ReorganizedSegmentation/Shenzhen_0011_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0549.png": [
+        "ReorganizedSegmentation/Shenzhen_0549_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0441.png": [
+        "ReorganizedSegmentation/Shenzhen_0441_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0401.png": [
+        "ReorganizedSegmentation/Shenzhen_0401_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0266.png": [
+        "ReorganizedSegmentation/Shenzhen_0266_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0265.png": [
+        "ReorganizedSegmentation/Shenzhen_0265_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0530.png": [
+        "ReorganizedSegmentation/Shenzhen_0530_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0382.png": [
+        "ReorganizedSegmentation/Shenzhen_0382_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0568.png": [
+        "ReorganizedSegmentation/Shenzhen_0568_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0317.png": [
+        "ReorganizedSegmentation/Shenzhen_0317_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0156.png": [
+        "ReorganizedSegmentation/Shenzhen_0156_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0475.png": [
+        "ReorganizedSegmentation/Shenzhen_0475_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0446.png": [
+        "ReorganizedSegmentation/Shenzhen_0446_label.png"
+    ],
+    "ReorganizedImage/Montgomery_0354.png": [
+        "ReorganizedSegmentation/Montgomery_0354_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0645.png": [
+        "ReorganizedSegmentation/Shenzhen_0645_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0542.png": [
+        "ReorganizedSegmentation/Shenzhen_0542_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0299.png": [
+        "ReorganizedSegmentation/Shenzhen_0299_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0090.png": [
+        "ReorganizedSegmentation/Shenzhen_0090_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0370.png": [
+        "ReorganizedSegmentation/Shenzhen_0370_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0635.png": [
+        "ReorganizedSegmentation/Shenzhen_0635_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0104.png": [
+        "ReorganizedSegmentation/Shenzhen_0104_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0285.png": [
+        "ReorganizedSegmentation/Shenzhen_0285_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0136.png": [
+        "ReorganizedSegmentation/Shenzhen_0136_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0535.png": [
+        "ReorganizedSegmentation/Shenzhen_0535_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0067.png": [
+        "ReorganizedSegmentation/Shenzhen_0067_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0098.png": [
+        "ReorganizedSegmentation/Shenzhen_0098_label.png"
+    ],
+    "ReorganizedImage/Shenzhen_0232.png": [
+        "ReorganizedSegmentation/Shenzhen_0232_label.png"
+    ]
+}
