@@ -215,7 +215,7 @@ def setting_prompt_none(batched_input):
 def draw_boxes(img, boxes):
     img_copy = np.copy(img)
     for box in boxes:
-        cv2.rectangle(img_copy, (box[0], box[1]), (box[2], box[3]), (0, 255, 0), 2)
+        cv2.rectangle(img_copy, (box[0], box[1]), (box[2], box[3]), (0, 255, 0), 5)
     return img_copy
 
 
@@ -260,7 +260,7 @@ def save_masks(preds, save_path, mask_name, image_size, original_size, pad=None,
                 x, y = map(int, point)
                 color = (0, 255, 0) if label == 1 else (0, 0, 255)
                 mask[y, x] = color
-                cv2.drawMarker(mask, (x, y), color, markerType=cv2.MARKER_CROSS , markerSize=7, thickness=2)  
+                cv2.drawMarker(mask, (x, y), color, markerType=cv2.MARKER_SQUARE , markerSize=40, thickness=40)
     os.makedirs(save_path, exist_ok=True)
     mask_path = os.path.join(save_path, f"{mask_name}")
     cv2.imwrite(mask_path, np.uint8(mask))

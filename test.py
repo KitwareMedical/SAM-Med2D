@@ -182,7 +182,7 @@ def main(args):
 
         masks, pad = postprocess_masks(low_res_masks, args.image_size, original_size)
         if args.save_pred:
-            save_masks(masks, save_path, img_name, args.image_size, original_size, pad, batched_input.get("boxes", None), points_show)
+            save_masks(masks, save_path, img_name, args.image_size, original_size, pad, batched_input.get("boxes", None), points_show, visual_prompt=True)
 
         loss = criterion(masks, ori_labels, iou_predictions)
         test_loss.append(loss.item())
